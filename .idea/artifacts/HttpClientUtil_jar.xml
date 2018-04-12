@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="HttpClientUtil:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/HttpClientUtil_jar</output-path>
+    <root id="archive" name="HttpClientUtil.jar">
+      <element id="module-output" name="HttpClientUtil" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../jar包/JMX/httpcomponents-client-4.5.5/lib/httpcore-4.4.9.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../jar包/JMX/httpcomponents-client-4.5.5/lib/httpclient-4.5.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../jar包/commons-codec-1.11.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
